@@ -12,3 +12,4 @@
 /Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.pdb
 /Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.genruntimeconfig.cache
 /Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/ref/DemoOOP.dll
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.sourcelink.json

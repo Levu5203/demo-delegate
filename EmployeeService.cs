@@ -32,10 +32,10 @@ public class EmployeeService
     }
 
     //Demo Func Delegate
-    public decimal CalculateTax(Employee emp)
+    public List<Employee> GetEmployeeTaxList()
     {
         Func<Employee, decimal> taxCalculator = e => e.Salary * 0.1M;
-        return taxCalculator(emp);
+        return employees.Select(e => new Employee { name = e.name,id = e.id, Salary = taxCalculator(e) }).ToList();
     }
 
     //Demo Active Delegate

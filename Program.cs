@@ -58,8 +58,9 @@ internal class Program
         }
 
         //tính lương sau thuế
-        decimal tax = service.CalculateTax(service.getById(1));
-        Console.WriteLine($"Thuế của Alice: {tax:C}");
+        service.GetEmployeeTaxList().ToList().ForEach(e => {
+            Console.WriteLine($"{e.name} - Lương: {e.Salary:C}");
+        });
 
 
     }
