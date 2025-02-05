@@ -34,8 +34,7 @@ public class EmployeeService
     //Demo Func Delegate
     public List<Employee> GetEmployeeTaxList()
     {
-        Func<Employee, decimal> taxCalculator = e => e.Salary * 0.1M;
-        return employees.Select(e => new Employee { name = e.name,id = e.id, Salary = taxCalculator(e) }).ToList();
+        return employees.Select(e => new Employee { name = e.name,id = e.id, Salary = e.Salary * 0.1M }).ToList();
     }
 
     //Demo Active Delegate
