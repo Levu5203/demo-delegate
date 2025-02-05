@@ -1,0 +1,14 @@
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/bin/Debug/net9.0/DemoOOP
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/bin/Debug/net9.0/DemoOOP.deps.json
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/bin/Debug/net9.0/DemoOOP.runtimeconfig.json
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/bin/Debug/net9.0/DemoOOP.dll
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/bin/Debug/net9.0/DemoOOP.pdb
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.AssemblyInfoInputs.cache
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.AssemblyInfo.cs
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.csproj.CoreCompileInputs.cache
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.dll
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/refint/DemoOOP.dll
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.pdb
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/DemoOOP.genruntimeconfig.cache
+/Users/lequocvu/HN25_CPL_.NET_02/Day03/DemoOOP/obj/Debug/net9.0/ref/DemoOOP.dll
